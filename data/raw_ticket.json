@@ -1,0 +1,7 @@
+{
+  "ticket_id": "42",
+  "customer_name": "Alex Chen",
+  "issue": "Cannot reset password after MFA enrollment",
+  "priority": "medium-high",
+  "resolved": true
+}
